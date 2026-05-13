@@ -1,5 +1,10 @@
 import random
 
+"""
+Write a program which takes as input the number of sides on a dice.  
+Then, simulate rolling a dice with that many sides. Print the outcome of the roll.
+"""
+
 def main():
     your_dice = input("How many sides does your dice have? ")
     your_dice = int(your_dice)
