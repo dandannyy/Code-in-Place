@@ -1,10 +1,8 @@
 from karel.stanfordkarel import *
 
 """
-The warmup program defines a "main"
-function which currently just has one
-Command. Add two more commands to make karel: move(),
-pick_beeper(), move()
+The warmup program defines a "main" function which currently just has oneCommand. 
+Add two more commands to make karel: move(), pick_beeper(), move()
 """
 
 def main():
