@@ -1,5 +1,9 @@
 from karel.stanfordkarel import *
 
+"""
+Write a program that makes Karel follow and travel past the end of a straight line of beepers so they can make it home! 
+"""
+
 def main():
     while beepers_present():
         move()
