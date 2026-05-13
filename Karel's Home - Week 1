@@ -9,8 +9,8 @@ def main():
     move_pick()
     return_home()
 
-def move_pick():
-    turn_right() #move and pick beeper
+def move_pick(): #move and pick beeper
+    turn_right() 
     move()
     turn_left()
     move()
@@ -18,8 +18,8 @@ def move_pick():
     move()
     pick_beeper()
 
-def return_home():
-    turn_left() #return home
+def return_home(): #return home
+    turn_left() 
     turn_left()
     move()
     move()
