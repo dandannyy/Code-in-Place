@@ -1,5 +1,11 @@
 from ai import call_gpt
 
+"""
+Write a program to create a Haiku, using ai.
+Prompt the user to enter their name, and a topic. 
+Then make use call_gpt to turn the name and topic into a haiku. We leave it up to you to come up with the prompt! 
+"""
+
 def main():
     your_name = input("Enter your name: ")
     your_topic = input("Enter a topic: ")
