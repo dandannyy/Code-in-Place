@@ -1,0 +1,10 @@
+import random
+
+def main():
+    your_dice = input("How many sides does your dice have? ")
+    your_dice = int(your_dice)
+    your_roll = random.randint(1, your_dice)
+    print("Your roll is", your_roll)
+
+if __name__ == '__main__':
+    main()
