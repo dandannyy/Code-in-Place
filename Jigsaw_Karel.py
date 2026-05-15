@@ -1,5 +1,6 @@
 from karel.stanfordkarel import *
 
+# Week 1
 """
 Karel should finish the puzzle by picking up the last beeper 
 (puzzle piece) and placing it in the right spot. Karel should 
