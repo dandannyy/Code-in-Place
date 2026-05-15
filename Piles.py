@@ -1,5 +1,6 @@
 from karel.stanfordkarel import *
 
+# Week 1
 """
 The warmup program defines a "main" function 
 which should make Karel pick up all the beepers in the world.
