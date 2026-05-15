@@ -1,5 +1,6 @@
 import random
 
+# Week 3
 """
 Write a program which takes as input the number of sides on a dice.  
 Then, simulate rolling a dice with that many sides. Print the outcome of the roll.
