@@ -1,5 +1,6 @@
 from karel.stanfordkarel import *
 
+# Week 2
 """
 When you finish writing this file, Karel should have repaired 
 each of the columns in the temple
