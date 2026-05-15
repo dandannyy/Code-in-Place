@@ -1,3 +1,4 @@
+# Week 3
 """
 Example of a Fill in the Blank program, like the one from the lesson.
 The user will enter three words (a color, an adjective and a goal).
