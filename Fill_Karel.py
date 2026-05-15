@@ -1,5 +1,6 @@
 from karel.stanfordkarel import *
 
+# Week 2
 """
 Karel should fill the whole world with beepers.
 """
