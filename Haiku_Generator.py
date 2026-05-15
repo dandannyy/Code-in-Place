@@ -1,5 +1,6 @@
 from ai import call_gpt
 
+# Week 3 (OPTIONAL)
 """
 Write a program to create a Haiku, using ai.
 Prompt the user to enter their name, and a topic. 
