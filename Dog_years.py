@@ -1,3 +1,4 @@
+# Week 3
 """
 Write a program which asks a user to input an age in human years, and converts it to the equivalent age in dog years.
 Your program will take in an age in calendar years, multiply that age by 7.18 and report the resulting dog years.
