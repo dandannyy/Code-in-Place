@@ -1,4 +1,4 @@
-# Week 4(OPTIONAL)
+# Week 4 (OPTIONAL)
 """
 Write a program that implements the following process.
 Have the user input a positive integer, call it n.
